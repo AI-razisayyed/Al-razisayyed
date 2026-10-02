@@ -23,7 +23,7 @@ A collection of 8 production-style AI agent and automation systems:
 * **Human-in-the-Loop Content Engine:** Multi-step human-approval workflows for AI content generation.
 * **Operations Automations:** Automated invoice parser and a Gmail-based customer support triage agent.
 
-### 📞 [Make.com Automation Workflows](https://github.com)
+### 📞 [Make.com Automation Workflows](https://github.com/AI-razisayyed/make-com-automation-workflows)
 End-to-end business pipeline automations:
 * **Lead Qualifier & Research Voice Agent:** Automated lead enrichment via Airtable and automated proposal generation via PandaDoc.
 
