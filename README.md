@@ -33,6 +33,6 @@ End-to-end business pipeline automations:
 ---
 
 ## 📈 Connect With Me
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/syeda-razi-fatima-897237212?)
 - 📧 **Email:** syedarazifatima@gmail.com
 - 
