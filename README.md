@@ -16,7 +16,7 @@ I bridge the gap between software engineering architecture and cutting-edge **Ag
 
 ## 🚀 Featured Automation Repositories
 
-### 🤖 [n8n Automation Workflows](https://github.com)
+### 🤖 [n8n Automation Workflows](https://github.com/AI-razisayyed/n8n-Automation-Workflows)
 A collection of 8 production-style AI agent and automation systems:
 * **WhatsApp AI Receptionist:** Uses Gemini/Groq + live calendar API booking.
 * **RAG Document Chatbot:** Integrated with Pinecone Vector DB for smart context retrieval.
